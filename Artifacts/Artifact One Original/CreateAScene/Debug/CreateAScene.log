@@ -1,0 +1,3 @@
+﻿  CreateAScene.cpp
+C:\Users\swith\OneDrive\Desktop\C++\Comp Graphics\CreateAScene\CreateAScene.cpp(847,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  CreateAScene.vcxproj -> C:\Users\swith\OneDrive\Desktop\C++\Comp Graphics\CreateAScene\Debug\CreateAScene.exe

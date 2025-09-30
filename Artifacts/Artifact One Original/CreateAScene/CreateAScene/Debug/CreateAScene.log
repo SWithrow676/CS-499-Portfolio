@@ -1,0 +1,4 @@
+﻿  CreateAScene.cpp
+H:\Stephanie\Documents\Coding\C++\Comp Graphics\CreateAScene\CreateAScene.cpp(847,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  glm.c
+  CreateAScene.vcxproj -> H:\Stephanie\Documents\Coding\C++\Comp Graphics\CreateAScene\Debug\CreateAScene.exe
