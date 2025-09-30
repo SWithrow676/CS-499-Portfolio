@@ -1,0 +1,9 @@
+﻿  NewScene.cpp
+H:\Stephanie\Documents\Coding\C++\Comp Graphics\NewScene\NewScene\NewScene.cpp(758,5): error C2664: 'void glutSpecialFunc(void (__cdecl *)(int,int,int))': cannot convert argument 1 from 'void (__cdecl *)(int)' to 'void (__cdecl *)(int,int,int)'
+      H:\Stephanie\Documents\Coding\C++\Comp Graphics\NewScene\NewScene\NewScene.cpp(758,21):
+      None of the functions with this name in scope match the target type
+      C:\glut\include\glut.h(577,23):
+      see declaration of 'glutSpecialFunc'
+      H:\Stephanie\Documents\Coding\C++\Comp Graphics\NewScene\NewScene\NewScene.cpp(758,5):
+      while trying to match the argument list '(overloaded-function)'
+  
