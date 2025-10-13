@@ -1,1 +1,3 @@
-# SWithrow676.github.io
+# CS-499 Portfolio
+
+Hello, my name is Stewart Withrow, and I have been in the Computer Science degree program since August of 2021. I originally started studying at Nashua Community College (NCC) for an Associate's Degree in Computer Science. Then I moved on to Southern New Hampshire University to earn a Bachelor's Degree in the same field. This page serves as my ePortfolio, showcasing the skills I have acquired over the past four years in completing my assignments. This ePortfolio contains a professional self-assessment, a code review, and three code enhancement artifacts that demonstrate my skills in software engineering, algorithms, data structures, and databases.
